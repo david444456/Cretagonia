@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4924504f84b4c144a390433ca043e68, type: 3}
+  m_Name: Carnota 5
+  m_EditorClassIdentifier: 
+  index: 5
+  spriteNotebookDino: {fileID: 21300000, guid: 70736c5fe572d834e82f2dead67bef3c, type: 3}
+  spriteInfo: {fileID: 21300000, guid: 36c471978929d594aaee2c9dd7b80bc5, type: 3}
+  nameFossil: Giganotosaurus carolini
+  description: "Neuqu\xE9n, El Choc\xF3n\r\nEs un ter\xF3podo. \r\nAntig\xFCedad
+    de 95 millones de a\xF1os\r\n16 metros de largo\r\n\r\nMuseo de choc\xF3n (Neuqu\xE9n)\r\n"
+  audioClipThisFossil: {fileID: 8300000, guid: 51aace9aa8879c240a170ff3acb0f54e, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4924504f84b4c144a390433ca043e68, type: 3}
+  m_Name: Aeolo 1
+  m_EditorClassIdentifier: 
+  index: 1
+  spriteNotebookDino: {fileID: 21300000, guid: 953760cb6c136254bbe5a0a125cbb431, type: 3}
+  spriteInfo: {fileID: 21300000, guid: bfb6c6514fbd22f46b85fdbb44f9ddcd, type: 3}
+  nameFossil: Giganotosaurus carolini
+  description: "Neuqu\xE9n, El Choc\xF3n\r\nEs un ter\xF3podo. \r\nAntig\xFCedad
+    de 95 millones de a\xF1os\r\n16 metros de largo\r\n\r\nMuseo de choc\xF3n (Neuqu\xE9n)\r\n"
+  audioClipThisFossil: {fileID: 8300000, guid: c6fced91d95c84747bafcbf9dcabbd9e, type: 3}
